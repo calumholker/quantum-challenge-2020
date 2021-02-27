@@ -1,2 +1,2 @@
-# quantum-challenge-2020
-IBM's Quantum Challenge 2020
+# IBM Quantum Challenge 2020
+https://github.com/qiskit-community/IBMQuantumChallenge2020
